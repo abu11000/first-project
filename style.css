@@ -1,0 +1,81 @@
+.zagolovok{
+    text-align: center;
+    color: rgb(91, 91, 201);
+    border: 2px solid red;
+    background-color: rgb(191, 200, 247);
+    border-radius: 20px;
+}
+i{
+    color: brown;
+}
+.Bizning{
+color: green;
+}
+.hayvonlar{
+    text-align: center;
+    background-color: yellow;
+}
+.lions{
+    width: 700px
+}
+.sleep{
+    height: 445px;
+    width: 750px
+}
+.korish{
+    text-align: center;
+    background-color: yellow;
+}
+.lionnn{
+    text-align: center;
+    background-color: black;
+    border-radius: 15px;
+}
+.fikr{
+    color: green;
+}
+.text{
+    width: 1200px;
+    height: 40px;
+}
+b{
+    color: green;
+}
+button{
+    width: 250px;
+    color: white;
+    background-color: rgb(89, 141, 209);
+    border: 1px solid rgb(89, 141, 209);
+    height: 35px
+}
+.jadval{
+    text-align: center;
+    background-color: yellow;
+}
+table,td{
+    border: 1px solid white;
+}
+.hayvon{
+    background-color: green;
+    text-align: center;
+    color: aliceblue;
+    height: 25px;
+    width: 300px
+}
+.fakt{
+    width: 800px;
+    color: white;
+    text-align: center;
+    background-color: blue;
+}
+.red{
+    color: white;
+    background-color: red;
+    text-align: center;
+
+}
+.fil{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
